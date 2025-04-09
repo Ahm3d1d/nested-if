@@ -1,5 +1,5 @@
 x = 10
-y = 30
+y = 20
 
 # Nested if statements
 if x < y:
